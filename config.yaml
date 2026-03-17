@@ -1,0 +1,35 @@
+scraper:
+  sources: [linkedin, indeed, glassdoor, zip_recruiter]
+  search_terms:
+    - "AI Engineer"
+    - "Applied ML Engineer"
+    - "LLM Engineer"
+    - "AI Platform Engineer"
+    - "Agentic AI Engineer"
+    - "ML Engineer"
+  locations: ["United States"]
+  remote_only: false
+  results_wanted_per_source: 25
+
+scoring:
+  growth_default: 7
+  e_verify_employers:
+    - google
+    - meta
+    - amazon
+    - microsoft
+    - apple
+    - nvidia
+    - openai
+    - anthropic
+    - databricks
+    - snowflake
+    - stripe
+    - airbnb
+    - uber
+    - linkedin
+    - salesforce
+
+alerts:
+  tier_threshold: B
+  chat_id: "${CHAT_ID}"
