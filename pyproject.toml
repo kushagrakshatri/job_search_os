@@ -3,12 +3,18 @@ name = "job-search-os"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "aiohttp>=3.9",
     "alembic>=1.13,<2",
     "apscheduler>=3.10,<4",
+    "chromadb>=0.5",
+    "gspread>=6.0.0",
+    "numpy<2",
+    "openai>=1.0",
     "pydantic-settings>=2,<3",
-    "python-jobspy>=1.1.82",
     "python-telegram-bot[job-queue]>=20,<21",
     "pyyaml>=6,<7",
+    "ruamel.yaml>=0.18,<0.19",
+    "serpapi>=0.1.5",
     "sqlalchemy>=2,<3",
     "structlog>=24,<26",
 ]

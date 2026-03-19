@@ -1,0 +1,1915 @@
+companies:
+  - name: "Anthropic"
+    ats: "greenhouse"
+    slug: "anthropic"
+    tier: 1
+  - name: "OpenAI"
+    ats: "ashby"
+    slug: "openai"
+    tier: 1
+  - name: "Google DeepMind"
+    ats: "greenhouse"
+    slug: "deepmind"
+    tier: 1
+  - name: "Microsoft (AI Platform)"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 1
+  - name: "Meta (GenAI)"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 1
+  - name: "Cohere"
+    ats: "ashby"
+    slug: "cohere"
+    tier: 1
+  - name: "Scale AI"
+    ats: "greenhouse"
+    slug: "scaleai"
+    tier: 1
+  - name: "LangChain"
+    ats: "ashby"
+    slug: "langchain"
+    tier: 2
+  - name: "LlamaIndex"
+    ats: "ashby"
+    slug: "llamaindex"
+    tier: 2
+  - name: "Weights & Biases"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 2
+  - name: "Arize AI"
+    ats: "greenhouse"
+    slug: "arizeai"
+    tier: 2
+  - name: "Galileo"
+    ats: "greenhouse"
+    slug: "galileo"
+    tier: 2
+  - name: "Glean"
+    ats: "greenhouse"
+    slug: "gleanwork"
+    tier: 2
+  - name: "Moveworks"
+    ats: "greenhouse"
+    slug: "moveworks"
+    tier: 2
+  - name: "ServiceNow"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 2
+  - name: "Observe.AI"
+    ats: "greenhouse"
+    slug: "observeai"
+    tier: 2
+  - name: "Box"
+    ats: "greenhouse"
+    slug: "boxinc"
+    tier: 2
+  - name: "Databricks"
+    ats: "greenhouse"
+    slug: "databricks"
+    tier: 2
+  - name: "Snowflake"
+    ats: "ashby"
+    slug: "snowflake"
+    tier: 2
+  - name: "Salesforce"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 3
+  - name: "Workday"
+    ats: "workday"
+    slug: "workday.wd5"
+    tier: 3
+  - name: "Cisco"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 3
+  - name: "Oracle"
+    ats: "unknown"
+    slug: "TODO"
+    tier: 3
+  - name: "Intel"
+    ats: "workday"
+    slug: "intel.wd1"
+    tier: 3
+  - name: "oaknorth.ai"
+    ats: "lever"
+    slug: "oaknorth.ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "whoop"
+    ats: "lever"
+    slug: "whoop"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "Clearer"
+    ats: "lever"
+    slug: "Clearer"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "revefi"
+    ats: "lever"
+    slug: "revefi"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sprucesystems"
+    ats: "lever"
+    slug: "sprucesystems"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "palantir"
+    ats: "lever"
+    slug: "palantir"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "wyetechllc"
+    ats: "lever"
+    slug: "wyetechllc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "weride"
+    ats: "lever"
+    slug: "weride"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "latitudeinc"
+    ats: "lever"
+    slug: "latitudeinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "saviynt"
+    ats: "lever"
+    slug: "saviynt"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "webfx"
+    ats: "lever"
+    slug: "webfx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "datalabusa"
+    ats: "lever"
+    slug: "datalabusa"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "CesiumAstro"
+    ats: "lever"
+    slug: "CesiumAstro"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "parallelwireless"
+    ats: "lever"
+    slug: "parallelwireless"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ivo"
+    ats: "lever"
+    slug: "ivo"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "nextech"
+    ats: "lever"
+    slug: "nextech"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "zaimler"
+    ats: "lever"
+    slug: "zaimler"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tekton"
+    ats: "lever"
+    slug: "tekton"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "telligen"
+    ats: "lever"
+    slug: "telligen"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "larian"
+    ats: "lever"
+    slug: "larian"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "kabam"
+    ats: "lever"
+    slug: "kabam"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "multiplylabs"
+    ats: "lever"
+    slug: "multiplylabs"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "woven-by-toyota"
+    ats: "lever"
+    slug: "woven-by-toyota"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "wadetrim"
+    ats: "lever"
+    slug: "wadetrim"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "veeva"
+    ats: "lever"
+    slug: "veeva"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "magnetforensics"
+    ats: "lever"
+    slug: "magnetforensics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "eqbank"
+    ats: "lever"
+    slug: "eqbank"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "hannaandersson"
+    ats: "lever"
+    slug: "hannaandersson"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "nobullproject"
+    ats: "lever"
+    slug: "nobullproject"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "imo-online"
+    ats: "lever"
+    slug: "imo-online"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "beta"
+    ats: "lever"
+    slug: "beta"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tahoebio-ai"
+    ats: "lever"
+    slug: "tahoebio-ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "redwoodcu"
+    ats: "lever"
+    slug: "redwoodcu"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "bioagilytix"
+    ats: "lever"
+    slug: "bioagilytix"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "pivotal"
+    ats: "lever"
+    slug: "pivotal"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tri"
+    ats: "lever"
+    slug: "tri"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "rigetti"
+    ats: "lever"
+    slug: "rigetti"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "vevo"
+    ats: "lever"
+    slug: "vevo"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sunwatercapital"
+    ats: "lever"
+    slug: "sunwatercapital"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "dodmg"
+    ats: "lever"
+    slug: "dodmg"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "standtogether"
+    ats: "lever"
+    slug: "standtogether"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "clovirtualfashion"
+    ats: "lever"
+    slug: "clovirtualfashion"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sanctuary"
+    ats: "lever"
+    slug: "sanctuary"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "neighbor"
+    ats: "lever"
+    slug: "neighbor"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "teleo"
+    ats: "lever"
+    slug: "teleo"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "hermeus"
+    ats: "lever"
+    slug: "hermeus"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cirquedusoleil"
+    ats: "lever"
+    slug: "cirquedusoleil"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "zoox"
+    ats: "lever"
+    slug: "zoox"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "longwall"
+    ats: "lever"
+    slug: "longwall"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "twitch"
+    ats: "greenhouse"
+    slug: "twitch"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "relativity"
+    ats: "greenhouse"
+    slug: "relativity"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "axon"
+    ats: "greenhouse"
+    slug: "axon"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "2k"
+    ats: "greenhouse"
+    slug: "2k"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "captivation"
+    ats: "greenhouse"
+    slug: "captivation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sigmacomputing"
+    ats: "greenhouse"
+    slug: "sigmacomputing"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cti"
+    ats: "greenhouse"
+    slug: "cti"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "togetherai"
+    ats: "greenhouse"
+    slug: "togetherai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "personalisinc"
+    ats: "greenhouse"
+    slug: "personalisinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "mthreerecruitingportal"
+    ats: "greenhouse"
+    slug: "mthreerecruitingportal"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "anaplan"
+    ats: "greenhouse"
+    slug: "anaplan"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "trueanomalyinc"
+    ats: "greenhouse"
+    slug: "trueanomalyinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "dlhcorporation"
+    ats: "greenhouse"
+    slug: "dlhcorporation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "nmi"
+    ats: "greenhouse"
+    slug: "nmi"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sphinxdefense"
+    ats: "greenhouse"
+    slug: "sphinxdefense"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "rocketlab"
+    ats: "greenhouse"
+    slug: "rocketlab"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "flexport"
+    ats: "greenhouse"
+    slug: "flexport"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "klaviyocampus"
+    ats: "greenhouse"
+    slug: "klaviyocampus"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "loop"
+    ats: "greenhouse"
+    slug: "loop"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "perpay"
+    ats: "greenhouse"
+    slug: "perpay"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "verkada"
+    ats: "greenhouse"
+    slug: "verkada"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "affirm"
+    ats: "greenhouse"
+    slug: "affirm"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "underdogfantasy"
+    ats: "greenhouse"
+    slug: "underdogfantasy"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "patterndata"
+    ats: "greenhouse"
+    slug: "patterndata"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "oklo"
+    ats: "greenhouse"
+    slug: "oklo"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "applytotruebuilt"
+    ats: "greenhouse"
+    slug: "applytotruebuilt"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "uareai"
+    ats: "greenhouse"
+    slug: "uareai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "applovin"
+    ats: "greenhouse"
+    slug: "applovin"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fireworksai"
+    ats: "greenhouse"
+    slug: "fireworksai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "doordashcanada"
+    ats: "greenhouse"
+    slug: "doordashcanada"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "appliedintuition"
+    ats: "greenhouse"
+    slug: "appliedintuition"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "diligentrobotics"
+    ats: "greenhouse"
+    slug: "diligentrobotics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "openfarminc"
+    ats: "greenhouse"
+    slug: "openfarminc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "artefactus"
+    ats: "greenhouse"
+    slug: "artefactus"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sayari"
+    ats: "greenhouse"
+    slug: "sayari"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "alphafmcroles"
+    ats: "greenhouse"
+    slug: "alphafmcroles"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "spacex"
+    ats: "greenhouse"
+    slug: "spacex"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "latitude"
+    ats: "greenhouse"
+    slug: "latitude"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "voyagertechnologiesinc"
+    ats: "greenhouse"
+    slug: "voyagertechnologiesinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "freeformfuturecorp"
+    ats: "greenhouse"
+    slug: "freeformfuturecorp"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "lgelectronics"
+    ats: "greenhouse"
+    slug: "lgelectronics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "wasabi"
+    ats: "greenhouse"
+    slug: "wasabi"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "point72"
+    ats: "greenhouse"
+    slug: "point72"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "darkwolfsolutions"
+    ats: "greenhouse"
+    slug: "darkwolfsolutions"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "horizonindustrieslimited"
+    ats: "greenhouse"
+    slug: "horizonindustrieslimited"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cmt"
+    ats: "greenhouse"
+    slug: "cmt"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "alarmcom"
+    ats: "greenhouse"
+    slug: "alarmcom"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "neuralink"
+    ats: "greenhouse"
+    slug: "neuralink"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "forerunner"
+    ats: "greenhouse"
+    slug: "forerunner"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "stockx"
+    ats: "greenhouse"
+    slug: "stockx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gingerlabsinc"
+    ats: "greenhouse"
+    slug: "gingerlabsinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "planetlabs"
+    ats: "greenhouse"
+    slug: "planetlabs"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "strandtherapeutics"
+    ats: "greenhouse"
+    slug: "strandtherapeutics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "transcarent"
+    ats: "greenhouse"
+    slug: "transcarent"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "diligentcorporation"
+    ats: "greenhouse"
+    slug: "diligentcorporation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "neo4j"
+    ats: "greenhouse"
+    slug: "neo4j"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "youcom"
+    ats: "greenhouse"
+    slug: "youcom"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "bracebridgecapital"
+    ats: "greenhouse"
+    slug: "bracebridgecapital"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "logicgate"
+    ats: "greenhouse"
+    slug: "logicgate"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "maintainx"
+    ats: "greenhouse"
+    slug: "maintainx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "lightspeedsystems"
+    ats: "greenhouse"
+    slug: "lightspeedsystems"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "clockworksystems"
+    ats: "greenhouse"
+    slug: "clockworksystems"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tatari"
+    ats: "greenhouse"
+    slug: "tatari"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fspco-op012325"
+    ats: "greenhouse"
+    slug: "fspco-op012325"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "nooks"
+    ats: "greenhouse"
+    slug: "nooks"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "starburst"
+    ats: "greenhouse"
+    slug: "starburst"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "rfsmart"
+    ats: "greenhouse"
+    slug: "rfsmart"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "graphcore"
+    ats: "greenhouse"
+    slug: "graphcore"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ada18"
+    ats: "greenhouse"
+    slug: "ada18"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "truveta"
+    ats: "greenhouse"
+    slug: "truveta"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gelberhandshake"
+    ats: "greenhouse"
+    slug: "gelberhandshake"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "dorsia"
+    ats: "greenhouse"
+    slug: "dorsia"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ezcaterinc"
+    ats: "greenhouse"
+    slug: "ezcaterinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "scopely"
+    ats: "greenhouse"
+    slug: "scopely"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "silananotechnologies"
+    ats: "greenhouse"
+    slug: "silananotechnologies"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "launchdarkly"
+    ats: "greenhouse"
+    slug: "launchdarkly"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "stratacareers"
+    ats: "greenhouse"
+    slug: "stratacareers"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "heartflowinc"
+    ats: "greenhouse"
+    slug: "heartflowinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "atlassand"
+    ats: "greenhouse"
+    slug: "atlassand"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "impinjexternal"
+    ats: "greenhouse"
+    slug: "impinjexternal"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "samsungresearchamericainternship"
+    ats: "greenhouse"
+    slug: "samsungresearchamericainternship"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "eventsandinterns"
+    ats: "greenhouse"
+    slug: "eventsandinterns"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "otrcapital1"
+    ats: "greenhouse"
+    slug: "otrcapital1"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "medicalinformaticsengineering"
+    ats: "greenhouse"
+    slug: "medicalinformaticsengineering"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "apptronik"
+    ats: "greenhouse"
+    slug: "apptronik"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "aloyoga"
+    ats: "greenhouse"
+    slug: "aloyoga"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "virtru"
+    ats: "greenhouse"
+    slug: "virtru"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "haven"
+    ats: "greenhouse"
+    slug: "haven"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gardacp"
+    ats: "greenhouse"
+    slug: "gardacp"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "glossgenius"
+    ats: "greenhouse"
+    slug: "glossgenius"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "skhynixamerica"
+    ats: "greenhouse"
+    slug: "skhynixamerica"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cloudflare"
+    ats: "greenhouse"
+    slug: "cloudflare"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "defenseunicorns"
+    ats: "greenhouse"
+    slug: "defenseunicorns"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "bandwidth"
+    ats: "greenhouse"
+    slug: "bandwidth"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "capitalrx"
+    ats: "greenhouse"
+    slug: "capitalrx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gofundme"
+    ats: "greenhouse"
+    slug: "gofundme"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "prolaio"
+    ats: "greenhouse"
+    slug: "prolaio"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "scoutmotors"
+    ats: "greenhouse"
+    slug: "scoutmotors"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "grassrootsanalytics"
+    ats: "greenhouse"
+    slug: "grassrootsanalytics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "internshiplist2000"
+    ats: "greenhouse"
+    slug: "internshiplist2000"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "knowbe4"
+    ats: "greenhouse"
+    slug: "knowbe4"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "samsungsemiconductor"
+    ats: "greenhouse"
+    slug: "samsungsemiconductor"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "successkpiinc"
+    ats: "greenhouse"
+    slug: "successkpiinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "laskoproducts"
+    ats: "greenhouse"
+    slug: "laskoproducts"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "supplyhouse"
+    ats: "greenhouse"
+    slug: "supplyhouse"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fsastorecom"
+    ats: "greenhouse"
+    slug: "fsastorecom"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tenstorrentuniversity"
+    ats: "greenhouse"
+    slug: "tenstorrentuniversity"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "theweathercompany"
+    ats: "greenhouse"
+    slug: "theweathercompany"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "thetradedesk"
+    ats: "greenhouse"
+    slug: "thetradedesk"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sharkninjaoperatingllc"
+    ats: "greenhouse"
+    slug: "sharkninjaoperatingllc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "glydways"
+    ats: "greenhouse"
+    slug: "glydways"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "metoxinternationalinc"
+    ats: "greenhouse"
+    slug: "metoxinternationalinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "dhpace"
+    ats: "greenhouse"
+    slug: "dhpace"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "figureai"
+    ats: "greenhouse"
+    slug: "figureai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "armada"
+    ats: "greenhouse"
+    slug: "armada"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "kensingtontours"
+    ats: "greenhouse"
+    slug: "kensingtontours"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "madisonenergyinfrastructure"
+    ats: "greenhouse"
+    slug: "madisonenergyinfrastructure"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "usafacts"
+    ats: "greenhouse"
+    slug: "usafacts"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "profluent"
+    ats: "greenhouse"
+    slug: "profluent"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "antora"
+    ats: "greenhouse"
+    slug: "antora"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "trumid"
+    ats: "greenhouse"
+    slug: "trumid"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "faire"
+    ats: "greenhouse"
+    slug: "faire"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "signifyd95"
+    ats: "greenhouse"
+    slug: "signifyd95"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "toshibaglobalcommercesolutions"
+    ats: "greenhouse"
+    slug: "toshibaglobalcommercesolutions"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "vulcanelements"
+    ats: "greenhouse"
+    slug: "vulcanelements"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "leagueinc"
+    ats: "greenhouse"
+    slug: "leagueinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "idmeuniversityrecruiting"
+    ats: "greenhouse"
+    slug: "idmeuniversityrecruiting"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "apexcompanies"
+    ats: "greenhouse"
+    slug: "apexcompanies"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "abacusinsights"
+    ats: "greenhouse"
+    slug: "abacusinsights"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fccincinnati"
+    ats: "greenhouse"
+    slug: "fccincinnati"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "audaxgroup"
+    ats: "greenhouse"
+    slug: "audaxgroup"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "commvault"
+    ats: "greenhouse"
+    slug: "commvault"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "correlationone"
+    ats: "greenhouse"
+    slug: "correlationone"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "samayaai"
+    ats: "greenhouse"
+    slug: "samayaai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "acluinternships"
+    ats: "greenhouse"
+    slug: "acluinternships"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "blueskyinnovators"
+    ats: "greenhouse"
+    slug: "blueskyinnovators"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "redwoodmaterials"
+    ats: "greenhouse"
+    slug: "redwoodmaterials"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "aypapower"
+    ats: "greenhouse"
+    slug: "aypapower"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "adcouncil"
+    ats: "greenhouse"
+    slug: "adcouncil"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "asteraearlycareer2026"
+    ats: "greenhouse"
+    slug: "asteraearlycareer2026"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "oceanx"
+    ats: "greenhouse"
+    slug: "oceanx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "legendcareers"
+    ats: "greenhouse"
+    slug: "legendcareers"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sonyinteractiveentertainmentglobal"
+    ats: "greenhouse"
+    slug: "sonyinteractiveentertainmentglobal"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cresta"
+    ats: "greenhouse"
+    slug: "cresta"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fourhands"
+    ats: "greenhouse"
+    slug: "fourhands"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "kairospower"
+    ats: "greenhouse"
+    slug: "kairospower"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "memic"
+    ats: "greenhouse"
+    slug: "memic"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "flagshippioneeringinc"
+    ats: "greenhouse"
+    slug: "flagshippioneeringinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "emergingtalent"
+    ats: "greenhouse"
+    slug: "emergingtalent"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "axq"
+    ats: "greenhouse"
+    slug: "axq"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gelbergroup"
+    ats: "greenhouse"
+    slug: "gelbergroup"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "terranorbitalcorporation"
+    ats: "greenhouse"
+    slug: "terranorbitalcorporation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "aevexaerospace"
+    ats: "greenhouse"
+    slug: "aevexaerospace"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "lucidmotors"
+    ats: "greenhouse"
+    slug: "lucidmotors"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "oura"
+    ats: "greenhouse"
+    slug: "oura"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "parallel"
+    ats: "greenhouse"
+    slug: "parallel"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "purestorage"
+    ats: "greenhouse"
+    slug: "purestorage"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "alamarbiosciences"
+    ats: "greenhouse"
+    slug: "alamarbiosciences"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "comstock"
+    ats: "greenhouse"
+    slug: "comstock"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "hellbenderinc"
+    ats: "greenhouse"
+    slug: "hellbenderinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "maybellquantum"
+    ats: "greenhouse"
+    slug: "maybellquantum"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "lucidbots"
+    ats: "greenhouse"
+    slug: "lucidbots"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "locusrobotics"
+    ats: "greenhouse"
+    slug: "locusrobotics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ampsortation"
+    ats: "greenhouse"
+    slug: "ampsortation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "harbingermotors"
+    ats: "greenhouse"
+    slug: "harbingermotors"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "astranis"
+    ats: "greenhouse"
+    slug: "astranis"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ruggedrobotics"
+    ats: "greenhouse"
+    slug: "ruggedrobotics"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "hackerrank"
+    ats: "greenhouse"
+    slug: "hackerrank"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "yext"
+    ats: "greenhouse"
+    slug: "yext"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "authenticbrandsgroup"
+    ats: "greenhouse"
+    slug: "authenticbrandsgroup"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "zscaler"
+    ats: "greenhouse"
+    slug: "zscaler"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "quantco-"
+    ats: "lever"
+    slug: "quantco-"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "panopto"
+    ats: "lever"
+    slug: "panopto"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "mistral"
+    ats: "lever"
+    slug: "mistral"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "thinkahead"
+    ats: "lever"
+    slug: "thinkahead"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "influur"
+    ats: "lever"
+    slug: "influur"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "aircall"
+    ats: "lever"
+    slug: "aircall"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "collate"
+    ats: "lever"
+    slug: "collate"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "valence"
+    ats: "lever"
+    slug: "valence"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "jobgether"
+    ats: "lever"
+    slug: "jobgether"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "voltai"
+    ats: "lever"
+    slug: "voltai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "qvest.us"
+    ats: "lever"
+    slug: "qvest.us"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "plaid"
+    ats: "lever"
+    slug: "plaid"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cherre"
+    ats: "lever"
+    slug: "cherre"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "crossing-minds"
+    ats: "lever"
+    slug: "crossing-minds"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "pointclickcare"
+    ats: "lever"
+    slug: "pointclickcare"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tandems"
+    ats: "lever"
+    slug: "tandems"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "coupa"
+    ats: "lever"
+    slug: "coupa"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "myob-2"
+    ats: "lever"
+    slug: "myob-2"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "pinterest"
+    ats: "greenhouse"
+    slug: "pinterest"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "airbnb"
+    ats: "greenhouse"
+    slug: "airbnb"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "liftoff"
+    ats: "greenhouse"
+    slug: "liftoff"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "easyship"
+    ats: "greenhouse"
+    slug: "easyship"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "andurilindustries"
+    ats: "greenhouse"
+    slug: "andurilindustries"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "waymo"
+    ats: "greenhouse"
+    slug: "waymo"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gatherai"
+    ats: "greenhouse"
+    slug: "gatherai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "oscar"
+    ats: "greenhouse"
+    slug: "oscar"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "pathward"
+    ats: "greenhouse"
+    slug: "pathward"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "remotepeople"
+    ats: "greenhouse"
+    slug: "remotepeople"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "okx"
+    ats: "greenhouse"
+    slug: "okx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "clarityai"
+    ats: "greenhouse"
+    slug: "clarityai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "affinity"
+    ats: "greenhouse"
+    slug: "affinity"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "celonis"
+    ats: "greenhouse"
+    slug: "celonis"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "materialbank"
+    ats: "greenhouse"
+    slug: "materialbank"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fourkites"
+    ats: "greenhouse"
+    slug: "fourkites"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ghsmartjobs"
+    ats: "lever"
+    slug: "ghsmartjobs"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "metaprise.ai"
+    ats: "lever"
+    slug: "metaprise.ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "unstructuredtechnologies"
+    ats: "lever"
+    slug: "unstructuredtechnologies"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "turgon-ai"
+    ats: "lever"
+    slug: "turgon-ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "coinmarketcap"
+    ats: "lever"
+    slug: "coinmarketcap"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "fullscript"
+    ats: "lever"
+    slug: "fullscript"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "balbix"
+    ats: "lever"
+    slug: "balbix"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cimgroup"
+    ats: "lever"
+    slug: "cimgroup"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "binance"
+    ats: "lever"
+    slug: "binance"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "sonarsource"
+    ats: "lever"
+    slug: "sonarsource"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "trellis"
+    ats: "lever"
+    slug: "trellis"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ironflow"
+    ats: "lever"
+    slug: "ironflow"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "linkllc"
+    ats: "lever"
+    slug: "linkllc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "moment"
+    ats: "ashby"
+    slug: "moment"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "quora"
+    ats: "ashby"
+    slug: "quora"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "pytho-ai"
+    ats: "ashby"
+    slug: "pytho-ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ramp"
+    ats: "ashby"
+    slug: "ramp"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "ironcladhq"
+    ats: "ashby"
+    slug: "ironcladhq"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "hiya"
+    ats: "ashby"
+    slug: "hiya"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "rilla"
+    ats: "ashby"
+    slug: "rilla"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "Distyl"
+    ats: "ashby"
+    slug: "Distyl"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "tryalma"
+    ats: "ashby"
+    slug: "tryalma"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "develop-health"
+    ats: "ashby"
+    slug: "develop-health"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "netomi"
+    ats: "lever"
+    slug: "netomi"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "cyderes"
+    ats: "lever"
+    slug: "cyderes"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "atmosera"
+    ats: "lever"
+    slug: "atmosera"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "field-ai"
+    ats: "lever"
+    slug: "field-ai"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "augury"
+    ats: "greenhouse"
+    slug: "augury"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "robinhood"
+    ats: "greenhouse"
+    slug: "robinhood"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "anomali"
+    ats: "lever"
+    slug: "anomali"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "artera-2"
+    ats: "lever"
+    slug: "artera-2"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "c12qe"
+    ats: "lever"
+    slug: "c12qe"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "interwellhealth"
+    ats: "greenhouse"
+    slug: "interwellhealth"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "techholding"
+    ats: "greenhouse"
+    slug: "techholding"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "phizenix"
+    ats: "greenhouse"
+    slug: "phizenix"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "LEOTechnologies"
+    ats: "lever"
+    slug: "LEOTechnologies"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "kiddom"
+    ats: "lever"
+    slug: "kiddom"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "percepta"
+    ats: "ashby"
+    slug: "percepta"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "withdaydream"
+    ats: "ashby"
+    slug: "withdaydream"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "federato"
+    ats: "greenhouse"
+    slug: "federato"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "physicsx"
+    ats: "greenhouse"
+    slug: "physicsx"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "lendbuzz"
+    ats: "lever"
+    slug: "lendbuzz"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "humansignal"
+    ats: "greenhouse"
+    slug: "humansignal"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "Instrumentl"
+    ats: "lever"
+    slug: "Instrumentl"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "BestEgg"
+    ats: "lever"
+    slug: "BestEgg"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "rld-foundation"
+    ats: "lever"
+    slug: "rld-foundation"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "narvar"
+    ats: "greenhouse"
+    slug: "narvar"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "gatikaiinc"
+    ats: "greenhouse"
+    slug: "gatikaiinc"
+    tier: 99
+    discovered: true
+    verified: true
+  - name: "casium"
+    ats: "ashby"
+    slug: "casium"
+    tier: 99
+    discovered: true
+    verified: true

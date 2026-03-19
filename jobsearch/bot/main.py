@@ -5,11 +5,19 @@ from __future__ import annotations
 import sys
 
 import structlog
-from telegram.ext import Application, ApplicationBuilder, CallbackQueryHandler, CommandHandler
+from telegram.ext import Application, ApplicationBuilder, CommandHandler
 
 from jobsearch.bot.commands import (
-    callback_handler,
+    add_contact_handler,
+    advance_handler,
+    apply_handler,
+    close_handler,
+    log_outreach_handler,
     ping_handler,
+    pipeline_handler,
+    role_handler,
+    scan_handler,
+    sheet_handler,
     scrape_now_handler,
     stats_handler,
 )
@@ -26,13 +34,16 @@ def build_application() -> Application:
     application = ApplicationBuilder().token(settings.TELEGRAM_TOKEN).build()
     application.add_handler(CommandHandler("ping", ping_handler))
     application.add_handler(CommandHandler("scrape_now", scrape_now_handler))
+    application.add_handler(CommandHandler("scan", scan_handler))
     application.add_handler(CommandHandler("stats", stats_handler))
-    application.add_handler(
-        CallbackQueryHandler(
-            callback_handler,
-            pattern=r"^(add_pipeline|dismiss):",
-        )
-    )
+    application.add_handler(CommandHandler("sheet", sheet_handler))
+    application.add_handler(CommandHandler("pipeline", pipeline_handler))
+    application.add_handler(CommandHandler("apply", apply_handler))
+    application.add_handler(CommandHandler("advance", advance_handler))
+    application.add_handler(CommandHandler("add_contact", add_contact_handler))
+    application.add_handler(CommandHandler("log_outreach", log_outreach_handler))
+    application.add_handler(CommandHandler("role", role_handler))
+    application.add_handler(CommandHandler("close", close_handler))
     return application
 
 

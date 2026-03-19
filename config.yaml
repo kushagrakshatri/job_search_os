@@ -1,5 +1,5 @@
 scraper:
-  sources: [linkedin, indeed, glassdoor, zip_recruiter]
+  sources: []
   search_terms:
     - "AI Engineer"
     - "Applied ML Engineer"
@@ -10,6 +10,9 @@ scraper:
   locations: ["United States"]
   remote_only: false
   results_wanted_per_source: 25
+  ats_map_path: "config/company_ats_map.yaml"
+  ats_concurrency: 10
+  llm_parser_concurrency: 5
 
 scoring:
   growth_default: 7

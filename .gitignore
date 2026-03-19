@@ -1,0 +1,31 @@
+data/scrape_run_count.txt
+data/chroma/
+data/resume.tex
+jobsearch.db
+openjob-*.json
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and local tooling
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# ws.py-related local artifacts
+ws.py
+*ws.py*
+.ws*
+
+# wp.py-related local artifacts
+wp.py
+.wp*
